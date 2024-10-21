@@ -1,0 +1,16 @@
+{
+  "name": "fabric-node-contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "fabric-chaincode-node start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fabric-contract-api": "^2.5.7",
+    "fabric-shim": "^2.5.7"
+  }
+}
